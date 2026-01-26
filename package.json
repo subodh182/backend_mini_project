@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is my First task of class.",
+  "license": "ISC",
+  "author": "Subodh Thakur",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "subodh": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
