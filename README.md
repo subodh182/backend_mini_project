@@ -47,6 +47,6 @@ project/
 **Subodh Singh**  
 B.Tech Student | Backend Development Learner  
 
-🔗 LinkedIn: [https://www.linkedin.com/in/subodh-singh-0751082b2/](https://www.linkedin.com/in/your-linkedin-username)
+🔗 LinkedIn: [https://www.linkedin.com/in/subodh-singh-0751082b2/](https://www.linkedin.com/in/subodh-singh-0751082b2/)
 
 
