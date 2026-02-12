@@ -48,5 +48,6 @@ project/
 B.Tech Student | Backend Development Learner  
 
 🔗 LinkedIn: [https://www.linkedin.com/in/subodh-singh-0751082b2/](https://www.linkedin.com/in/subodh-singh-0751082b2/)
+🔗 Github link: [https://github.com/subodh182/backend_mini_project](https://github.com/subodh182/backend_mini_project)
 
 
